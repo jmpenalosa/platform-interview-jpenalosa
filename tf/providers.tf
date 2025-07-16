@@ -26,6 +26,6 @@ provider "vault" {
 
 provider "vault" {
   alias   = "vault_staging"
-  address = "http://localhost:8401"  # Or whatever Vault address you're using
-  token   = "your-staging-token-here" #RANDOMTOKEN
+  address = "http://localhost:8401"
+  token   = "809a2fwf-5324-4ec4-9b59-2093aadkfweir
 }
