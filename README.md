@@ -12,6 +12,4 @@ I have only ever collaborated with someone who is DevOps who takes charge of the
 
 - **Reusability**: Input variables (declared in `variables.tf`) enable this Terraform configuration to be reused across different environments (dev, staging, prod) with different values.
 
-- **Scalability Readiness**: Although not implemented here, this structure supports future integration with remote state backends (like S3 with DynamoDB locking), workspaces for multiple environments, and Terraform modules.
-
 ---
