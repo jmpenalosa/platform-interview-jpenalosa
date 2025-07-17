@@ -27,5 +27,5 @@ provider "vault" {
 provider "vault" {
   alias   = "vault_staging"
   address = "http://localhost:8401"
-  token   = "809a2fwf-5324-4ec4-9b59-2093aadkfweir
+  token   = "809a2fwf-5324-4dw5-9b59-2093aadkfweir #IJUSTMADETHISUP
 }
